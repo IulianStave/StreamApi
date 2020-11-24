@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "something to test the first stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "another stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this",
+      "userId": "100161435297777551239",
+      "id": 9
+    },
+    {
+      "title": "Refactored the stream on nov 20",
+      "description": "this uses history.push to go to root and editStream that uses rest put to update data",
+      "id": 18
+    },
+    {
+      "title": "edit stream on 20 nov by replacing put with patch",
+      "description": "let's see how it gows with patch",
+      "userId": "102178743641700706421",
+      "id": 19
+    },
+    {
+      "title": "Added Node Media server",
+      "description": "it runs with node index.js command on port 1935",
+      "userId": "100161435297777551239",
+      "id": 20
+    }
+  ]
+}
